@@ -75,6 +75,6 @@ Out of 14,048 recoreded submittion mode, most SLA Breach happened when submitted
 4. Most complaints were reported from the state of California, followed by Florida, Texas, New York, Georgia, with maximum complaint volume in March (9.65%) and January(9.17%).
 
 ## 6. Project Visuals 📀
-[!image]()
+![dashboard](https://github.com/vinayaksharma-git/us-consumer-sentiment-and-operational-risk-analytics/blob/main/US%20Consumer%20Sentiment%20%26%20Operational%20Risk%20Analytics_page-0001.jpg)
 
 🔗Demo Video: https://youtu.be/jPDt4gzr4kg?si=XcxFzkOS4BetxS4m
